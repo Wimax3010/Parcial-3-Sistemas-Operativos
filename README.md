@@ -1,1 +1,0 @@
-# Parcial-3-Sistemas-Operativos
